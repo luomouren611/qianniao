@@ -1,0 +1,10 @@
+{
+  "navigationBarTitleText": "付款",
+  "enablePullDownRefresh": false,
+  "backgroundColor": "#fff",
+  "usingComponents": {
+    "delivery-layout": "/components/delivery-layout/delivery-layout",
+    "goods-list": "/components/goods-list/goods-list",
+    "car-layout": "/components/car-layout/car-layout"
+  }
+}

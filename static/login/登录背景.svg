@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1240" height="1035" viewBox="0 0 1240 1035" fill="none">
+<path d="M49 368L799 368L799 857L49 857L49 368Z">
+</path>
+<g style="mix-blend-mode:multiply">
+<ellipse cx="424.5" cy="366" rx="424.5" ry="366"  style="mix-blend-mode:multiply" fill="url(#linear_0)" >
+</ellipse>
+</g>
+<g style="mix-blend-mode:multiply">
+<ellipse cx="815.5" cy="669" rx="424.5" ry="366"  style="mix-blend-mode:multiply" fill="url(#linear_1)" >
+</ellipse>
+</g>
+<defs>
+<mask id="mask-0" style="mask-type:alpha" maskUnits="userSpaceOnUse">
+<path fill="white" d="M49 368L799 368L799 857L49 857L49 368Z">
+</path>
+</mask>
+<linearGradient id="linear_0" x1="18.064041435718536%" y1="52.810949087142944%" x2="47.76027798652649%" y2="123.80374670028687%" gradientUnits="objectBoundingBox">
+<stop offset="0" stop-color="#E4F1FF"  />
+<stop offset="1" stop-color="#FFFFFF" stop-opacity="0" />
+</linearGradient>
+<linearGradient id="linear_1" x1="65.91710448265076%" y1="42.461490631103516%" x2="15.947450697422028%" y2="90.4826819896698%" gradientUnits="objectBoundingBox">
+<stop offset="0" stop-color="#E4F1FF"  />
+<stop offset="1" stop-color="#FFFFFF" stop-opacity="0" />
+</linearGradient>
+</defs>
+</svg>

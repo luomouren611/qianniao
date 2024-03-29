@@ -1,0 +1,166 @@
+@charset "UTF-8";
+/* 颜色变量 */
+/**
+ * 自定义颜色
+ */
+.content.data-v-92bb8f34 {
+  background-color: #f2f4f5;
+  z-index: -1;
+  height: 100%;
+}
+.content .cont-top.data-v-92bb8f34 {
+  width: 100%;
+  height: 350rpx;
+  position: relative;
+  overflow: hidden;
+  z-index: 1;
+}
+.content .cont-top.data-v-92bb8f34::after {
+  content: '';
+  width: 130%;
+  height: 350rpx;
+  position: absolute;
+  left: -15%;
+  top: 0;
+  border-radius: 0 0 50% 50%;
+  background: #185df1;
+  background: url(/static/asset/网咖.png);
+  background-size: cover;
+}
+.content .cont-main.data-v-92bb8f34 {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  margin: 30rpx 20rpx;
+  height: 250rpx;
+  width: 95%;
+  border-radius: 20rpx;
+  background-color: #ffffff;
+}
+.content .cont-main .m-scan.data-v-92bb8f34 {
+  height: 150rpx;
+  width: 150rpx;
+  box-shadow: 5rpx 5rpx 10rpx 5rpx #ccd5dc;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  border-radius: 12rpx;
+}
+.content .cont-main .m-scan image.data-v-92bb8f34 {
+  width: 100%;
+  height: 100rpx;
+}
+.content .cont-main .m-scan text.data-v-92bb8f34 {
+  margin: 5rpx 20rpx;
+  font-size: 26rpx;
+  font-weight: 600;
+  color: #575b5e;
+}
+.content .cont-bot .cont-bot-title.data-v-92bb8f34 {
+  margin: 20rpx 10rpx;
+  font-size: 34rpx;
+  font-weight: 550;
+}
+.content .cont-bot .card.data-v-92bb8f34 {
+  width: 100%;
+  display: flex;
+  justify-content: space-around;
+  height: 450rpx;
+}
+.content .cont-bot .card .card1.data-v-92bb8f34 {
+  margin: 10rpx;
+  height: 380rpx;
+  width: 350rpx;
+  border-radius: 15rpx;
+  background: linear-gradient(115deg, #ffffff, #7aaffc);
+  box-shadow: 5rpx 6rpx 20rpx #f8f8f8;
+  z-index: 1;
+  overflow: hidden;
+}
+.content .cont-bot .card .card1 text.data-v-92bb8f34 {
+  position: absolute;
+  font-size: 46rpx;
+  font-weight: 600;
+  margin: 120rpx 30rpx;
+  color: #7aaffc;
+}
+.content .cont-bot .card .card1 .card-min.data-v-92bb8f34 {
+  position: relative;
+  top: -63rpx;
+  left: 195rpx;
+  width: 189rpx;
+  height: 189rpx;
+  border: 40rpx solid #e1ebf9;
+  border-radius: 50%;
+  z-index: -1;
+}
+.content .cont-bot .card .card1 image.data-v-92bb8f34 {
+  height: 240rpx;
+  width: 100%;
+  position: relative;
+  top: -40rpx;
+  left: 60rpx;
+}
+.content .cont-bot .card .card-right.data-v-92bb8f34 {
+  margin: 10rpx;
+  display: flex;
+  flex-direction: column;
+}
+.content .cont-bot .card .card-right .card2.data-v-92bb8f34 {
+  height: 180rpx;
+  width: 350rpx;
+  background: linear-gradient(115deg, #f4f4f4, #aee3d7);
+  margin: 10rpx;
+  border-radius: 15rpx;
+  overflow: hidden;
+  z-index: 1;
+  position: relative;
+}
+.content .cont-bot .card .card-right .card2 > text.data-v-92bb8f34 {
+  position: relative;
+  top: 55rpx;
+  left: 80rpx;
+  font-size: 42rpx;
+  font-weight: 550;
+  color: #b0ded3;
+}
+.content .cont-bot .card .card-right .card2 .card-min.data-v-92bb8f34 {
+  position: relative;
+  top: -120rpx;
+  left: 245rpx;
+  width: 169rpx;
+  height: 169rpx;
+  border: 40rpx solid #fafafa;
+  border-radius: 50%;
+}
+.content .cont-bot .card .card-right .card2 .card-mi.data-v-92bb8f34 {
+  position: relative;
+  bottom: 130rpx;
+  right: 75rpx;
+  width: 169rpx;
+  height: 169rpx;
+  border: 40rpx solid #fafafa;
+  border-radius: 50%;
+  z-index: -1;
+}
+.content .cont-bot .card .card-right .card3.data-v-92bb8f34 {
+  height: 180rpx;
+  width: 350rpx;
+  margin: 10rpx;
+  border-radius: 15rpx;
+  background: linear-gradient(115deg, #ffffff, #889ffd);
+}
+.content .cont-bot .card .card-right .card3 > text.data-v-92bb8f34 {
+  position: relative;
+  top: 55rpx;
+  left: 50rpx;
+  font-size: 42rpx;
+  font-weight: 550;
+  color: #7f93fd;
+}
+.content .cont-bot .card .card-right .card3 > image.data-v-92bb8f34 {
+  margin: 10rpx 120rpx;
+  height: 100rpx;
+  width: 100%;
+}
+

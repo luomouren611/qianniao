@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="56" height="50" viewBox="0 0 56 50" fill="none">
+<g >
+<text transform="translate(0, 30)">
+<tspan x="0" y="16.240000000000002" font-size="14" line-height="0"  fill="#464A57"  font-family="SourceHanSansCN-Regular" letter-spacing="0" >
+精彩活动</tspan>
+</text>
+</g>
+<path d="M29 21.5593L29.1264 21.4999L29.25 21.433L35.5443 17.799L35.695 17.7047C36.3792 17.2421 36.7943 16.4676 36.7943 15.634L36.7943 8.36602L36.7868 8.17278L36.7647 7.98239L29 12.5706L29 21.5593Z"   fill="url(#linear_0)" >
+</path>
+<path d="M19.2058 8.36604L19.2058 15.634C19.2058 16.5271 19.6823 17.3525 20.4558 17.799L26.75 21.433C26.8315 21.4801 26.915 21.5221 27 21.5593L27 12.5706L19.2354 7.98245C19.2159 8.10825 19.2058 8.23643 19.2058 8.36604Z"   fill="url(#linear_1)" >
+</path>
+<path d="M26.75 2.56699L20.4558 6.20097C20.4053 6.23014 20.356 6.26092 20.3081 6.29324L28 10.8385L35.692 6.29322C35.644 6.26091 35.5948 6.23013 35.5443 6.20097L29.25 2.56699C28.4765 2.12041 27.5235 2.12041 26.75 2.56699Z"   fill="url(#linear_2)" >
+</path>
+<defs>
+<linearGradient id="linear_0" x1="100%" y1="100%" x2="0%" y2="0%" gradientUnits="objectBoundingBox">
+<stop offset="0" stop-color="#99A3BA"  />
+<stop offset="1" stop-color="#B8C1D4"  />
+</linearGradient>
+<linearGradient id="linear_1" x1="100%" y1="99.99970538193548%" x2="0%" y2="0%" gradientUnits="objectBoundingBox">
+<stop offset="0" stop-color="#99A3BA"  />
+<stop offset="1" stop-color="#B8C1D4"  />
+</linearGradient>
+<linearGradient id="linear_2" x1="100.00006500302263%" y1="99.99994190403707%" x2="0%" y2="0%" gradientUnits="objectBoundingBox">
+<stop offset="0" stop-color="#99A3BA"  />
+<stop offset="1" stop-color="#B8C1D4"  />
+</linearGradient>
+</defs>
+</svg>

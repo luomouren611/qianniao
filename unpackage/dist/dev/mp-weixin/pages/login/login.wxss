@@ -1,0 +1,64 @@
+@charset "UTF-8";
+/* 颜色变量 */
+/**
+ * 自定义颜色
+ */
+.contain {
+  background-color: #f3f9ff;
+  height: 100vh;
+}
+.contain .top {
+  height: 400rpx;
+  width: 100%;
+  background-image: url(../../static/img/登录.88788680.svg);
+  background-size: cover;
+  background-color: #f3f9ff;
+  position: relative;
+  top: -100rpx;
+  left: 150rpx;
+  overflow: hidden;
+}
+.contain .top .logo {
+  position: relative;
+  top: 60%;
+  left: 20%;
+}
+.contain .top .logo image {
+  width: 140rpx;
+  height: 140rpx;
+  border-radius: 50%;
+}
+.contain .mid .box {
+  padding: 5rpx 60rpx;
+}
+.contain .mid .box .text {
+  margin: 5rpx 20rpx;
+  font-size: 34rpx;
+  font-weight: 500;
+}
+.contain .bot {
+  padding: 60rpx 0;
+}
+.contain .bot .button {
+  width: 75%;
+  box-shadow: 5rpx 5rpx 15rpx #89c1f9;
+  background-color: linear-gradient(123deg, #7dc3ff, #0e0bc3);
+}
+.contain .bot .text {
+  color: #bebebe;
+  display: flex;
+  margin: 20rpx 20rpx;
+  align-items: center;
+  justify-content: center;
+  font-size: 24rpx;
+}
+.contain .last {
+  display: flex;
+  justify-content: space-around;
+  padding: 20rpx 60rpx;
+}
+.contain .last image {
+  height: 80rpx;
+  width: 80rpx;
+}
+

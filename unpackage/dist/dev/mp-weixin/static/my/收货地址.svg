@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="56" height="50" viewBox="0 0 56 50" fill="none">
+<g >
+<text transform="translate(0, 30)">
+<tspan x="0" y="16.240000000000002" font-size="14" line-height="0"  fill="#464A57"  font-family="SourceHanSansCN-Regular" letter-spacing="0" >
+收货地址</tspan>
+</text>
+</g>
+<path d="M22.4416 18.3945C20.6759 16.5892 19 14.0738 19 11C19 6.02944 23.0294 2 28 2C32.9706 2 37 6.02944 37 11C37 14.0738 35.3241 16.5892 33.5584 18.3945C32.5897 19.3849 31.5597 20.1973 30.6817 20.8113L30.2564 21.1017C30.1879 21.1473 30.1208 21.1915 30.0551 21.2343L29.6789 21.474L29.3429 21.6791L28.9271 21.921C28.3479 22.2481 27.6521 22.2481 27.0729 21.921L26.6571 21.6791L26.1377 21.3584C26.0749 21.3184 26.0106 21.2771 25.9449 21.2343L25.5345 20.9607C24.6124 20.3315 23.4911 19.4674 22.4416 18.3945ZM28 14C26.3431 14 25 12.6569 25 11C25 9.34315 26.3431 8 28 8C29.6569 8 31 9.34315 31 11C31 12.6569 29.6569 14 28 14Z" fill-rule="evenodd"  fill="url(#linear_0)" >
+</path>
+<defs>
+<linearGradient id="linear_0" x1="100%" y1="100%" x2="0%" y2="0%" gradientUnits="objectBoundingBox">
+<stop offset="0" stop-color="#99A3BA"  />
+<stop offset="1" stop-color="#B8C1D4"  />
+</linearGradient>
+</defs>
+</svg>

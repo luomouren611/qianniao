@@ -1,0 +1,1 @@
+<view class="paypage"><delivery-layout vue-id="a69b8b60-1" bind:__l="__l"></delivery-layout><view class="goodsList"><goods-list vue-id="a69b8b60-2" bind:__l="__l"></goods-list></view><view class="payTabbar"><car-layout vue-id="a69b8b60-3" type="pay" bind:__l="__l"></car-layout></view></view>

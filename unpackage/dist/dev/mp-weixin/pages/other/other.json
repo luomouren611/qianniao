@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "up-prompt": "/components/up-prompt/up-prompt",
+    "near-bar": "/components/near-bar/near-bar"
+  }
+}
